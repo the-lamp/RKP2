@@ -13,7 +13,7 @@ Click the button below to explore **The Lamp** and illuminate your path!
 
 ## 🌟 Connect with Me  
 Feel free to reach out or connect with me for any queries or collaborations:  
-- **Email**: [your-email@example.com](mailto:contact@thelamp.site)  
+- **Email**: [contact@thelamp.site](mailto:contact@thelamp.site)  
 - **Instagram**: [cyb_rahul](https://instagram.com/cyb_rahul)
 
 ---
