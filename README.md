@@ -15,6 +15,7 @@ Click the button below to explore **The Lamp** and illuminate your path!
 Feel free to reach out or connect with me for any queries or collaborations:  
 - **Email**: [contact@thelamp.site](mailto:contact@thelamp.site)  
 - **Instagram**: [cyb_rahul](https://instagram.com/cyb_rahul)
+- **Visit my Website**: [The Lamp RKP](https://thelamp.site/)
 
 ---
 
