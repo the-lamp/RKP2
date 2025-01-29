@@ -49,10 +49,5 @@ I have some works with **JavaScript**, **Node.js** and **SVG**, contact me if yo
 ---
 
 <h3 align="center">
-  <img src="https://media.giphy.com/media/L0t11OghxvBkCsp4J8/giphy.gif" width="40"/>
-  <span style="font-family: 'Kaushan Script', cursive; font-size: 22px; color: #FFA500;">
-    Crafted with 💖 & Magic by 
-    <a href="https://instagram.com/cyb_rahul" style="color:#FF4500;">Rahul Kumar Puri</a>
-  </span>
-  <img src="https://media.giphy.com/media/L0t11OghxvBkCsp4J8/giphy.gif" width="40"/>
+  <img src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" width="40"/> <i>Crafted with ❤️ by Rahul Kumar Puri</i> <img src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" width="40"/>
 </h3>
