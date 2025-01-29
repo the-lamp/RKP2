@@ -11,7 +11,7 @@
 </p>
 ---
 
-## 🚀 <span style="font-family: 'Kaushan Script', cursive; color: #FFA500;">**Explore The Lamp**</span>  
+## <span style="font-family: 'Kaushan Script', cursive; color: #FFA500;">🚀 **Explore The Lamp**</span>  
 🛸 **Step into my universe of brilliance and innovation!** Click below to experience **The Lamp RKP**:  
 
 <p align="center">
