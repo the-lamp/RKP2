@@ -1,7 +1,7 @@
 <!-- Ultra-Stylish & Animated README for The Lamp RKP -->
 
 <div align="center">
-  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="The Lamp RKP" />
   <br />
 
 <p align="center">
