@@ -49,5 +49,5 @@ I have some works with **JavaScript**, **Node.js** and **SVG**, contact me if yo
 ---
 
 <h3 align="center">
-  <img src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" width="100"/> <i>Crafted with ❤️ by Rahul Kumar Puri</i>
+  <img src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" width="80"/> <i>Crafted with ❤️ by Rahul Kumar Puri</i>
 </h3>
