@@ -7,7 +7,7 @@
 </h1>
 
 
- ![](https://visitor-badge.lithub.cc/badge?page_id=github.com/lizheming)
+ <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'>
 
 Hi guys, I'm **Li Zheming**. I am a JavaScript developer from Beijing, China. I'm currently working on @75team as a Font-End engineer.  
 I have some works with **JavaScript**, **Node.js** and **SVG**, contact me if you have same interesting or some questions!
