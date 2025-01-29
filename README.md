@@ -1,10 +1,8 @@
 <!-- Ultra-Stylish & Animated README for The Lamp RKP -->
 
-<h1 align="center">
-  <a href="https://thelamp.site" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=40&duration=3000&pause=1000&color=007BFF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=✨ The+Lamp+RKP ✨" alt="The Lamp RKP" />
-  </a>
-</h1>
+<div align="center">
+  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <br />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFA500&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Welcome+to+The+Lamp+RKP!+💡;Creativity+%E2%9C%A8+%7C+Technology+%F0%9F%94%A7+%7C+Inspiration+%F0%9F%92%A1" alt="Typing SVG" />
