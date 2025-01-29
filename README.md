@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://thelamp.site" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=40&duration=3000&pause=1000&color=FFA500&center=true&vCenter=true&multiline=true&width=700&height=80&lines=✨ The+Lamp+RKP ✨" alt="The Lamp RKP" />
+    <img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=40&duration=3000&pause=1000&color=007BFF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=✨ The+Lamp+RKP ✨" alt="The Lamp RKP" />
   </a>
 </h1>
 
