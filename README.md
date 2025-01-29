@@ -9,20 +9,44 @@
 </p>
 
 
-## <span style="font-family: 'Kaushan Script', cursive; color: #FFA500;">🚀 **Explore The Lamp**</span>  
-🛸 **Step into my universe of brilliance and innovation!** Click below to experience **The Lamp RKP**:  
+<!-- Social -->
+<table width="100%" align="center">
+<tr>
+<td align="center">
+<a href="https://brunnerliv.io">
+<strong>Visit my personal website </strong>
+<br />
+<br />
+<br />
 
-<p align="center">
-  <a href="https://thelamp.site" target="_blank">
-    <img src="https://media.giphy.com/media/h409obeZBMc16IxnbZ/giphy.gif" width="320"/>
-  </a>
+<p>
+
+<img alt="Globe" height="80" src="images/globe.gif">
+</a>
 </p>
 
-<p align="center">
-  <a href="https://thelamp.site" target="_blank">
-    <img src="https://shields.io/badge/🚀_Visit%20THELAMP.SITE-F57C00?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000&animation=glow" />
-  </a>
+</td>
+
+
+<td align="center">
+<a href="https://www.youtube.com/watch?v=3YxaaGgTQYM&ab_channel=EvanescenceVEVO">
+<strong>Listen to cool music</strong>
+<br />
+<br />
+
+
+<p>
+<img height="100" alt="Music" src="images/music.gif"> 
+</a>
 </p>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<a href="https://github.com/BrunnerLivio/brunnerlivio/issues/62#issuecomment-new"><img src="images/guestbook.svg"></a> 
+</div>
 
 ---
 
