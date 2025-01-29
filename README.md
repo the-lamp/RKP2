@@ -1,52 +1,33 @@
 <!-- Ultra-Stylish & Animated README for The Lamp RKP -->
 
-<div align="center">
-  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="The Lamp RKP" />
-  <br />
+<h1 align="center">
+  <a href="https://thelamp.site" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=40&duration=3000&pause=1000&color=FFA500&center=true&vCenter=true&multiline=true&width=700&height=80&lines=✨ The+Lamp+RKP ✨" alt="The Lamp RKP" />
+  </a>
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFA500&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Welcome+to+The+Lamp+RKP!+💡;Creativity+%E2%9C%A8+%7C+Technology+%F0%9F%94%A7+%7C+Inspiration+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://media.tenor.com/2lTTjjZXkUMAAAAj/lamp-light.gif" width="50"/>  
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=24&color=FFD700&duration=3000&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Welcome+to+The+Lamp+RKP!;Creativity+%E2%9C%A8+|+Technology+%F0%9F%94%A7+|+Inspiration+%F0%9F%92%A1" />
+  <img src="https://media.tenor.com/2lTTjjZXkUMAAAAj/lamp-light.gif" width="50"/>
 </p>
 
+---
 
-<!-- Social -->
-<table width="100%" align="center">
-<tr>
-<td align="center">
-<a href="https://brunnerliv.io">
-<strong>Visit my personal website </strong>
-<br />
-<br />
-<br />
+## 🚀 <span style="font-family: 'Kaushan Script', cursive; color: #FFA500;">**Explore The Lamp**</span>  
+🛸 **Step into my universe of brilliance and innovation!** Click below to experience **The Lamp RKP**:  
 
-<p>
-
-<img alt="Globe" height="80" src="images/globe.gif">
-</a>
+<p align="center">
+  <a href="https://thelamp.site" target="_blank">
+    <img src="https://media.giphy.com/media/h409obeZBMc16IxnbZ/giphy.gif" width="320"/>
+  </a>
 </p>
 
-</td>
-
-
-<td align="center">
-<a href="https://www.youtube.com/watch?v=3YxaaGgTQYM&ab_channel=EvanescenceVEVO">
-<strong>Listen to cool music</strong>
-<br />
-<br />
-
-
-<p>
-<img height="100" alt="Music" src="images/music.gif"> 
-</a>
+<p align="center">
+  <a href="https://thelamp.site" target="_blank">
+    <img src="https://shields.io/badge/🚀_Visit%20THELAMP.SITE-F57C00?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000&animation=glow" />
+  </a>
 </p>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-<a href="https://github.com/BrunnerLivio/brunnerlivio/issues/62#issuecomment-new"><img src="images/guestbook.svg"></a> 
-</div>
 
 ---
 
