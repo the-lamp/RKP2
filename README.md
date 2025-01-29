@@ -7,11 +7,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/2lTTjjZXkUMAAAAj/lamp-light.gif" width="50"/>  
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=24&color=FFD700&duration=3000&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Welcome+to+The+Lamp+RKP!;Creativity+%E2%9C%A8+|+Technology+%F0%9F%94%A7+|+Inspiration+%F0%9F%92%A1" />
-  <img src="https://media.tenor.com/2lTTjjZXkUMAAAAj/lamp-light.gif" width="50"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFA500&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Welcome+to+The+Lamp+RKP!+💡;Creativity+%E2%9C%A8+%7C+Technology+%F0%9F%94%A7+%7C+Inspiration+%F0%9F%92%A1" alt="Typing SVG" />
 </p>
-
 ---
 
 ## 🚀 <span style="font-family: 'Kaushan Script', cursive; color: #FFA500;">**Explore The Lamp**</span>  
