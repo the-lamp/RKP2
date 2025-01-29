@@ -9,8 +9,8 @@
 
  <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'>
 
-Hi guys, I'm **Li Zheming**. I am a JavaScript developer from Beijing, China. I'm currently working on @75team as a Font-End engineer.  
-I have some works with **JavaScript**, **Node.js** and **SVG**, contact me if you have same interesting or some questions!
+Hey, I'm **Rahul Kumar Puri**. I am a Web developer and Writer from Motihari, Bihar. 
+I have some works Like a Website who build with **Html**, **CSS** and **JavaScript**.
 
 
 ## 🚀 <span style="font-family: 'Kaushan Script', cursive; color: #FFA500;">**Explore The Lamp**</span>  
