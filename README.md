@@ -6,6 +6,12 @@
   </a>
 </h1>
 
+
+ ![](https://visitor-badge.lithub.cc/badge?page_id=github.com/lizheming)
+
+Hi guys, I'm **Li Zheming**. I am a JavaScript developer from Beijing, China. I'm currently working on @75team as a Font-End engineer.  
+I have some works with **JavaScript**, **Node.js** and **SVG**, contact me if you have same interesting or some questions!
+
 <p align="center">
   <img src="https://media.tenor.com/2lTTjjZXkUMAAAAj/lamp-light.gif" width="50"/>  
   <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=24&color=0000FF&duration=3000&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Welcome+to+The+Lamp+RKP!;Creativity+%E2%9C%A8+|+Technology+%F0%9F%94%A7+|+Inspiration+%F0%9F%92%A1" />
