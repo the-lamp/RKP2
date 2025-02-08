@@ -1,4 +1,4 @@
-# ©The Lamp RKP
+# [©The Lamp RKP](https://thelamp.site)
 
 <h1 align="center">
   <a href="https://thelamp.site" target="_blank">
@@ -6,16 +6,18 @@
   </a>
 </h1>
 
-Hey, I'm **Rahul Kumar Puri**. I am a Web Developer and Writer from Motihari, Bihar.  
-I have built websites using **HTML**, **CSS**, and **JavaScript**.
+Hey, I'm **[Rahul Kumar Puri](https://thelamp.site/about)**. I am a Web Developer and Writer from Motihari, Bihar.  
+I have built websites using **[HTML](https://thelamp.site/projects)**, **[CSS](https://thelamp.site/projects)**, and **[JavaScript](https://thelamp.site/projects)**.
 
 ---
 
-## 🚀 **Explore The Lamp**  
-🛸 **Step into my universe of brilliance and innovation!** Click below to experience **The Lamp RKP**:  
+## 🚀 **[Explore The Lamp](https://thelamp.site)**  
+🛸 **[Step into my universe of brilliance and innovation! Click below to experience The Lamp RKP:](https://thelamp.site)**  
 
 <p align="center">
-  <img src="tenor.gif" width="320"/>
+  <a href="https://thelamp.site" target="_blank">
+    <img src="tenor.gif" width="320"/>
+  </a>
 </p>
 
 <p align="center">
@@ -44,8 +46,8 @@ I have built websites using **HTML**, **CSS**, and **JavaScript**.
 
 ---
 
-## 🌟 **Let's Connect!**  
-📩 Feel free to reach out for collaboration, ideas, or just a friendly chat:  
+## 🌟 **[Let's Connect!](#)**  
+📩 **[Feel free to reach out for collaboration, ideas, or just a friendly chat:](#)**  
 
 <div align="center">
 
@@ -64,6 +66,9 @@ I have built websites using **HTML**, **CSS**, and **JavaScript**.
 ---
 
 <h3 align="center">
-  <img src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" width="80"/>  
-  <i>Crafted with ❤️ by Rahul Kumar Puri</i>
+  <a href="https://thelamp.site" target="_blank">
+    <img src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" width="80"/>  
+  </a>
+  <br>
+  <i>Crafted with ❤️ by <a href="https://thelamp.site/about" target="_blank">Rahul Kumar Puri</a></i>
 </h3>
