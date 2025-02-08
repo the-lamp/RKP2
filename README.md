@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-Hey, I'm **[Rahul Kumar Puri](https://thelamp.site/about)**. I am a Web Developer and Writer from Motihari, Bihar.  
+Hey, I'm **[Rahul Kumar Puri](https://thelamp.site/Founder/)**. I am a Web Developer and Writer from Motihari, Bihar.  
 I have built websites using **[HTML](https://thelamp.site/projects)**, **[CSS](https://thelamp.site/projects)**, and **[JavaScript](https://thelamp.site/projects)**.
 
 ---
