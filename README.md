@@ -70,5 +70,5 @@ I have built websites using **[HTML](https://thelamp.site/)**, **[CSS](https://t
     <img src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" width="80"/>  
   </a>
   <br>
-  <i>Crafted with ❤️ by <a href="https://thelamp.site/about" target="_blank">Rahul Kumar Puri</a></i>
+  <i>Crafted with ❤️ by <a href="https://thelamp.site/Founder/" target="_blank">Rahul Kumar Puri</a></i>
 </h3>
