@@ -46,7 +46,7 @@ I have built websites using **[HTML](https://thelamp.site/)**, **[CSS](https://t
 
 ---
 
-## 🌟 **[Let's Connect!](#)**  
+## 🌟 **[Let's Connect!](https://thelamp.site/Contact/)**  
 📩 **[Feel free to reach out for collaboration, ideas, or just a friendly chat:](#)**  
 
 <div align="center">
