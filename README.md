@@ -1,4 +1,4 @@
-# ✨ The Lamp RKP
+# ©The Lamp RKP
 
 <h1 align="center">
   <a href="https://thelamp.site" target="_blank">
