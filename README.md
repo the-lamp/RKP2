@@ -12,23 +12,6 @@
 Hey, I'm **Rahul Kumar Puri**. I am a Web developer and Writer from Motihari, Bihar. 
 I have some works Like a Website who build with **Html**, **CSS** and **JavaScript**.
 
-
-## 🚀 <span style="font-family: 'Kaushan Script', cursive; color: #FFA500;">**Explore The Lamp**</span>  
-🛸 **Step into my universe of brilliance and innovation!** Click below to experience **The Lamp RKP**:  
-
-<p align="center">
-  <a href="https://thelamp.site" target="_blank">
-    <img src="https://media.giphy.com/media/h409obeZBMc16IxnbZ/giphy.gif" width="320"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://thelamp.site" target="_blank">
-  
-    <img src="https://shields.io/badge/🚀_Visit%20THELAMP.SITE-F57C00?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000&animation=glow" />
-  </a>
-</p>
-
 ---
 
 ## 🌟 <span style="font-family: 'Kaushan Script', cursive; color: #FFA500;">**Let's Connect!**</span>  
