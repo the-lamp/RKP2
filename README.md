@@ -24,32 +24,17 @@ I have built websites using **HTML**, **CSS**, and **JavaScript**.
   </a>
 </p>
 
----
-
-## 📚 **My Books**  
-I am also an author! Check out my books here:  
-
 <p align="center">
   <a href="https://thelamp.site/books" target="_blank">
     <img src="https://img.shields.io/badge/📖_Read%20My%20Books-8A2BE2?style=for-the-badge&logo=openbook&labelColor=black" />
   </a>
 </p>
 
----
-
-## 🎮 **Play BGMI With Me**  
-Are you a **BGMI** enthusiast? Let's team up and dominate the battlefield!  
-
 <p align="center">
   <a href="https://www.battlegroundsmobileindia.com" target="_blank">
     <img src="https://img.shields.io/badge/🎮_Play%20BGMI%20With%20Me-FFD700?style=for-the-badge&logo=pubg&labelColor=black" />
   </a>
 </p>
-
----
-
-## 🏠 **Visit Homepage**  
-Explore my main website and stay updated with all my projects!  
 
 <p align="center">
   <a href="https://thelamp.site/home" target="_blank">
