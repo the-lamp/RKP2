@@ -38,12 +38,6 @@ I have built websites using **[HTML](https://thelamp.site/)**, **[CSS](https://t
   </a>
 </p>
 
-<p align="center">
-  <a href="https://thelamp.site/home" target="_blank">
-    <img src="https://img.shields.io/badge/🏡_Visit%20Homepage-00BFFF?style=for-the-badge&logo=home-assistant&labelColor=black" />
-  </a>
-</p>
-
 ---
 
 ## 🌟 **[Let's Connect!](https://thelamp.site/Contact/)**  
