@@ -15,7 +15,7 @@ I have built websites using **HTML**, **CSS**, and **JavaScript**.
 🛸 **Step into my universe of brilliance and innovation!** Click below to experience **The Lamp RKP**:  
 
 <p align="center">
-  <img src="./assets/explore-the-lamp.gif" width="320"/>
+  <img src="tenor.gif" width="320"/>
 </p>
 
 <p align="center">
